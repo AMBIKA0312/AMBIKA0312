@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Ambika Kumari 👋
 
-<!--
-**AMBIKA0312/AMBIKA0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 💻 I’m a B.Tech CSE 3rd Year Student
+* 🌱 Currently learning: Machine Learning, Deep Learning, Data Analytics, and Backend Development
+* 🎯 Goal: To become a skilled Software Engineer / Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+* Java
+* Python
+* C
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+
+### 🗄️ Database
+
+* DBMS (MySQL / SQL)
+
+### 🧰 Tools & Technologies
+
+* Data Analytics
+* Machine Learning
+* Deep Learning
+* Artificial Intelligence
+
+---
+
+## 📌 Projects
+
+* 🔗 **Student Management System** – A DBMS-based project to manage student records efficiently
+* 🔗 **Data Analysis Project** – Performed data cleaning, visualization, and insights using Python
+* 🔗 **Basic ML Model** – Implemented simple machine learning algorithms for prediction
+
+---
+
+
+
+## 📫 Contact Me
+
+* 📧 Email: aniyamishra03@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/ambika-k-6674922b3/
+
+---
+
+## ⚡ Fun Fact
+
+✨ I enjoy solving coding problems and exploring new technologies every day!
+
+---
+
+⭐ *Keep Learning, Keep Building!* 🚀
