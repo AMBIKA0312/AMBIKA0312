@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-* 💻 I’m a B.Tech CSE 3rd Year Student
+* 💻 I’m a B.Tech CSE 6th Year Student
 * 🌱 Currently learning: Machine Learning, Deep Learning, Data Analytics, and Backend Development
 * 🎯 Goal: To become a skilled Software Engineer / Data Scientist
 
@@ -36,9 +36,7 @@
 
 ## 📌 Projects
 
-* 🔗 **Student Management System** – A DBMS-based project to manage student records efficiently
-* 🔗 **Data Analysis Project** – Performed data cleaning, visualization, and insights using Python
-* 🔗 **Basic ML Model** – Implemented simple machine learning algorithms for prediction
+* 🔗 
 
 ---
 
