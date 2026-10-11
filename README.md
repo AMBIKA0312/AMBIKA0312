@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-* 💻 I’m a B.Tech CSE 6th Year Student
+* 💻 I’m a B.Tech CSE 4th Year Student
 * 🌱 Currently learning: Machine Learning, Deep Learning, Data Analytics, and Backend Development
 * 🎯 Goal: To become a skilled Software Engineer / Data Scientist
 
